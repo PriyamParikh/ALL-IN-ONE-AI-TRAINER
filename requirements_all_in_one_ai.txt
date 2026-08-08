@@ -1,0 +1,21 @@
+# All in One AI — complete direct requirements
+customtkinter>=5.2
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+joblib
+
+# Image, webcam and Excel support
+opencv-python
+pillow
+openpyxl
+xlrd
+
+# YOLO object and pose support
+pyyaml
+ultralytics
+
+# Microphone support
+sounddevice
